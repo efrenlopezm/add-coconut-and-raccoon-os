@@ -4,7 +4,7 @@
 
 | Framework                 | Main Developer                       | Scope                                              | Impl. Language         | License         | Repo |
 | ------------------------- | -------------------------------------| -------------------------------------------------- | ---------------------- | ----------------| --------------------------------------- |
-| [core Flight System](cfs.md) | NASA                              |                                                    | C                      | Apache 2.0      | [https://github.com/nasa/cFS](https://github.com/nasa/cFS) |
+| core Flight System | NASA                              |                                                    | C                      | Apache 2.0      | [https://github.com/nasa/cFS](https://github.com/nasa/cFS) |
 | F Prime (F´)              | NASA JPL                             |                                                    | C++                    | Apache 2.0      | [https://github.com/nasa/fprime](https://github.com/nasa/fprime) |
 | NanoSat MO Framework      | ESA                                  |                                                    | Java                   | ESA Open Source | [https://github.com/esa/nmf-mission-ops-sat](https://github.com/esa/nmf-mission-ops-sat) |
 | CubedOS                   | Vermont State University             |                                                    | SPARK Ada              | GPLv3           | [https://github.com/cubesatlab/cubedos](https://github.com/cubesatlab/cubedos) |
