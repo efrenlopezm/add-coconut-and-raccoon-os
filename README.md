@@ -9,6 +9,8 @@ resources, I have found across the years.
 
 
 
+## Frameworks
+
 ## List of Flight-Software Frameworks
 
 
@@ -26,10 +28,7 @@ resources, I have found across the years.
 | RODOS                     | University of Würzburg               | RTOS, Middleware                                        | C++                    | GPLv3           | [https://gitlab.com/rodos/rodos](https://gitlab.com/rodos/rodos) |
 
 
-##### About the scope
-
-
-
+where: 
 - HAL: Provides Hardware Abstraction Layer
 - OSAL: Provides Operating-System Abstraction Layer
 - RTOS/OS: Provides the Operating-System
@@ -38,30 +37,33 @@ resources, I have found across the years.
 - Services: Provides readily usable services, usually using the Component Framework
 
 
-## Reference Architectures
-
-A list of reference architectures, in other words descriptions of how flight software architecture should be designed 
-according to a particular organization, something like a blueprint.
-
-- [ESA's SAVOIR](https://savoir.estec.esa.int/SAVOIROutput.htm)
-    - *Note: Required to be in a ESA member state to access documentation 👎
-- [CCSDS CAST](https://ccsds.org/Pubs/811.1o1e1.pdf)
 
 
-
-## Educational
+### Educational Frameworks
 Projects developed for educational purposes.
+
 | Framework                          | Main Developer                      | Impl. Language         | License         | Repo |
-| SmallSat Flight Software Framework |                                     | C                      | MIT             | [https://github.com/olmanqj/sfsf](https://github.com/olmanqj/sfsf) |
+| ---------------------------------- | ------------------------------------|------------------------|-----------------|------|
+| SmallSat Flight Software Framework | Costa Rica Institute of Technology  | C                      | MIT             | [https://github.com/olmanqj/sfsf](https://github.com/olmanqj/sfsf) |
 | PyCubed                            | PyCubed Project                     | Python / CircuitPython | MIT             | [https://github.com/pycubed/software](https://github.com/pycubed/software) |
 
 
 
 
-## Dead projects
+### Dead projects
 A list of Frameworks that apparently have gone defunct :,(
 
 | Framework                 | Developer                            | Scope                                              | Impl. Language         | License      | Mirrors |
 | ------------------------- | -------------------------------------| -------------------------------------------------- | ---------------------- | ------------ | --------------------------------------- |
 | Kobos                     | KubOS Corporation                    |                                                    | C / Rust               | Apache  2.0  | https://github.com/neo4reo/kubos <br> https://github.com/xbai9225/kubos/ |
+
+
+
+## Reference Architectures
+
+A list of reference architectures, in other words descriptions of how flight software architecture should be designed 
+according to a particular organization, something like a blueprint.
+
+- [ESA's SAVOIR](https://savoir.estec.esa.int/SAVOIROutput.htm) (Required to be in a ESA member state to access documentation 👎)
+- [CCSDS CAST](https://ccsds.org/Pubs/811.1o1e1.pdf)
 
